@@ -6,7 +6,7 @@ Hi there! I'm Tanay,
 
 - 🎓 MSE in CS @ Johns Hopkins University, specializing in areas such as Deep Learning, Natural Language Processing (NLP), and Human Computer Interaction (HCI). 
 - 🔬 Student Researcher @ Laboratory of Computational Intensive Care Medicine, JHMI.
-- 📚 Undergrad from Manipal Institute of Technology.
+- 📚 BTech in CSE from Manipal Institute of Technology, with a minor in Computational Math.
 - 👨‍💻 Previously, Software Engineer 2 @ Cisco, working in Backend Development and DevOps.
 - 💡 Passionate about pioneering ML and AI advancements while embracing the foundational practices of software development to drive innovation and solve complex challenges.
 - 🎨 Outside of technology, I enjoy Cooking, Gaming, and Graphic Design.
