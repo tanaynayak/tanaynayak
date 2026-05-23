@@ -1,4 +1,4 @@
-# Tanay Nayak
+# About Me
 
 Software Engineer – Machine Learning at Datatecnica, building AI-powered biomedical research systems across LLM agents, retrieval workflows, data infrastructure, and full-stack product development.
 
